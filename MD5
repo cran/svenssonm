@@ -1,0 +1,14 @@
+78fef8787872a0cb8737aaa3262c68ac *DESCRIPTION
+e15381d6ef1fdbcb0dbb81e06e23f1b9 *NAMESPACE
+1545137cf05ac24cb965025e2a92e9d5 *NEWS.md
+a9faf1c31bb3ca97432cd4a082f36a9c *R/con_ta.R
+3b1977f73edd08234a1dd49daf9f03d1 *R/indichange.R
+1d4bd9ce9722b92f31916d16c47cf40e *R/pa.R
+c2c66326f7f51aa8423b7d93e038f3d5 *R/sresult.R
+2b26c4eb7d9d461492a49075faa6614a *R/syschange.R
+d230f6f96258619a73296a50e0633067 *README.md
+cd243710c9be8090ed7e76515b08d230 *man/con_ta.Rd
+9bf2a45e636022a691413e0c95fe0899 *man/indichange.Rd
+52d630ef0d17d5aefa7edd228ed11ab5 *man/pa.Rd
+e8b28c72787dc9eff648c2011c048444 *man/sresult.Rd
+7e48ea8e5d715db90d1acd4f6475266f *man/syschange.Rd
